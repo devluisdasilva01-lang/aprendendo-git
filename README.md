@@ -1,2 +1,2 @@
 # aprendendo-git
-EStudo de git com github
+Estudo de git com github
